@@ -1,6 +1,6 @@
-package br.com.alura.escola.infra.aluno;
+package br.com.alura.escola.infraestructure.aluno;
 
-import br.com.alura.escola.dominio.aluno.*;
+import br.com.alura.escola.domain.aluno.*;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

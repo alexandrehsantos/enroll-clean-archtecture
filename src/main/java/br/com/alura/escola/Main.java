@@ -1,9 +1,9 @@
 package br.com.alura.escola;
 
-import br.com.alura.escola.aplicacao.aluno.matricular.MatricularAluno;
-import br.com.alura.escola.aplicacao.aluno.matricular.MatricularAlunoDTO;
-import br.com.alura.escola.dominio.aluno.RepositorioDeAlunos;
-import br.com.alura.escola.infra.aluno.RepositorioDeAlunosEmMemoria;
+import br.com.alura.escola.application.aluno.matricular.MatricularAluno;
+import br.com.alura.escola.application.aluno.matricular.MatricularAlunoDTO;
+import br.com.alura.escola.domain.aluno.RepositorioDeAlunos;
+import br.com.alura.escola.infraestructure.aluno.RepositorioDeAlunosEmMemoria;
 
 public class Main {
 

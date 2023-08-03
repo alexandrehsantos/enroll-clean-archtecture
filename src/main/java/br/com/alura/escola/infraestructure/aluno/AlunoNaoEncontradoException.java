@@ -1,7 +1,6 @@
-package br.com.alura.escola.infra.aluno;
+package br.com.alura.escola.infraestructure.aluno;
 
-import br.com.alura.escola.dominio.aluno.Aluno;
-import br.com.alura.escola.dominio.aluno.CPF;
+import br.com.alura.escola.domain.aluno.CPF;
 
 public class AlunoNaoEncontradoException extends RuntimeException {
 
